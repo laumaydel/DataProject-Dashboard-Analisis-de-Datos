@@ -9,13 +9,16 @@ Durante el análisis se examinan factores como la edad, actividad física, índi
 Los documentos que pueden encontrarse en el repositorio son los siguiente: 
 ├── data/
 │   └── db_cardio.csv            # Dataset original descargado y sin modificar
-│
+
+
 ├── docs/
 │   └── diario_diseno.pdf         # Diario de diseño y decisiones tomadas durante el análisis  *
-│
+
+
 ├── dashboard/
 │   └── dashboard_cardiovascular.xlsx   # Dashboard interactivo en Excel
-│
+
+
 ├── README.md                    # Descripción del proyecto, objetivos y resultados principales
 
 
