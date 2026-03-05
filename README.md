@@ -6,4 +6,17 @@ En este proyecto se realiza un análisis exploratorio de un conjunto de datos ob
 Durante el análisis se examinan factores como la edad, actividad física, índice de masa corporal (IMC), niveles de colesterol, presión arterial, estrés, consumo de alcohol o ingresos, buscando entender cómo estos elementos pueden influir en los diferentes riesgos cardiovasculares.
 
 ## ESTRUCTURA DEL PROYECTO
+Los documentos que pueden encontrarse en el repositorio son los siguiente: 
+├── data/
+│   └── db_cardio.csv            # Dataset original descargado y sin modificar
+│
+├── docs/
+│   └── diario_diseno.pdf         # Diario de diseño y decisiones tomadas durante el análisis  *
+│
+├── dashboard/
+│   └── dashboard_cardiovascular.xlsx   # Dashboard interactivo en Excel
+│
+├── README.md                    # Descripción del proyecto, objetivos y resultados principales
 
+
+* Dentro del "diario de diseño" están todos los pasos, indicaciones y consejos para poder replicar el estudios si se desea a partir de los datos *raw* que pueden encontrarse en esta mismo proyecto.
