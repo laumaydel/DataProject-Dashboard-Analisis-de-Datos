@@ -27,7 +27,13 @@ Indica el nivel de riesgo cardiovascular estimado para cada individuo.
 - Consumo_Alcohol: Frecuencia o nivel de consumo de alcohol.
 
 4. Variables clínicas
-- IMC (Índice de Masa Corporal): Indicador que relaciona peso y altura para estimar si el individuo se encuentra en un rango de peso saludable.
+- IMC (Índice de Masa Corporal): Indicador que relaciona peso y altura para estimar si el individuo se encuentra en un rango de peso saludable. *
+
+  _*Importante:_ Se ha calculado una nueva variable que contiene la interpretación del IMC, según los estándares considerados, clasificando el peso según el mismo en las diferntes categorías:
+
+  <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/c547da90-a6a4-4462-b641-eece4a8075e1" />
+
+  
 - Colesterol_Total: Nivel total de colesterol en sangre, asociado al riesgo de enfermedades cardiovasculares.
 - PAS / PAD: Presión arterial sistólica (PAS) y diastólica (PAD), indicadores clave en la salud cardiovascular.
 
