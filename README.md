@@ -12,4 +12,4 @@ Los documentos que pueden encontrarse en el repositorio son los siguiente:
 - dashboard_cardiovascular.xlsx  --> Dashboard interactivo en Excel
 - README.md  --> Descripción del proyecto, objetivos y resultados principales
 
-* Dentro del "diario de diseño" están todos los pasos, indicaciones y consejos para poder replicar el estudios si se desea a partir de los datos *raw* que pueden encontrarse en esta mismo proyecto.
+_*Importante:_ Dentro del "diario de diseño" están todos los pasos, indicaciones y consejos para poder replicar el estudios si se desea a partir de los datos *raw* que pueden encontrarse en esta mismo proyecto.
