@@ -31,7 +31,7 @@ Indica el nivel de riesgo cardiovascular estimado para cada individuo.
 
   _*Importante:_ Se ha calculado una nueva variable que contiene la interpretación del IMC, según los estándares considerados, clasificando el peso según el mismo en las diferntes categorías:
 
-  <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/c547da90-a6a4-4462-b641-eece4a8075e1" />
+  <img width="1000" height="630" alt="image" src="https://github.com/user-attachments/assets/c547da90-a6a4-4462-b641-eece4a8075e1" />
 
   
 - Colesterol_Total: Nivel total de colesterol en sangre, asociado al riesgo de enfermedades cardiovasculares.
