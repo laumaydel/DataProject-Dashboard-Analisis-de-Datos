@@ -13,3 +13,21 @@ Los documentos que pueden encontrarse en el repositorio son los siguiente:
 - README.md  --> Descripción del proyecto, objetivos y resultados principales
 
 _*Importante:_ Dentro del "diario de diseño" están todos los pasos, indicaciones y consejos para poder replicar el estudios si se desea a partir de los datos *raw* que pueden encontrarse en esta mismo proyecto.
+
+## VARIABLES 
+A continuación se explican las más relevantes para el estudio, para poder ver todas leer el apartado análogo en el _diario de diseño_
+1. Variable objetivo: Riesgo_Cardiovascular
+Indica el nivel de riesgo cardiovascular estimado para cada individuo.
+2. Variables demográficas: Edad, Sexo
+  - Comunidad_Autonoma: Comunidad autónoma de residencia del individuo, utilizada para analizar posibles diferencias geográficas en el riesgo cardiovascular.
+
+3. Variables de estilo de vida
+- Actividad_Fisica: Nivel de actividad física habitual del individuo.
+- Nivel_Estres: Nivel de estrés percibido por el individuo.
+- Consumo_Alcohol: Frecuencia o nivel de consumo de alcohol.
+
+4. Variables clínicas
+- IMC (Índice de Masa Corporal): Indicador que relaciona peso y altura para estimar si el individuo se encuentra en un rango de peso saludable.
+- Colesterol_Total: Nivel total de colesterol en sangre, asociado al riesgo de enfermedades cardiovasculares.
+- PAS / PAD: Presión arterial sistólica (PAS) y diastólica (PAD), indicadores clave en la salud cardiovascular.
+
