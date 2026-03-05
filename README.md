@@ -7,19 +7,9 @@ Durante el análisis se examinan factores como la edad, actividad física, índi
 
 ## ESTRUCTURA DEL PROYECTO
 Los documentos que pueden encontrarse en el repositorio son los siguiente: 
-├── data/
-│   └── db_cardio.csv            # Dataset original descargado y sin modificar
-
-
-├── docs/
-│   └── diario_diseno.pdf         # Diario de diseño y decisiones tomadas durante el análisis  *
-
-
-├── dashboard/
-│   └── dashboard_cardiovascular.xlsx   # Dashboard interactivo en Excel
-
-
-├── README.md                    # Descripción del proyecto, objetivos y resultados principales
-
+- db_cardio.csv  --> Dataset original descargado y sin modificar
+- diario_diseno.pdf  --> Diario de diseño y decisiones tomadas durante el análisis  *
+- dashboard_cardiovascular.xlsx  --> Dashboard interactivo en Excel
+- README.md  --> Descripción del proyecto, objetivos y resultados principales
 
 * Dentro del "diario de diseño" están todos los pasos, indicaciones y consejos para poder replicar el estudios si se desea a partir de los datos *raw* que pueden encontrarse en esta mismo proyecto.
