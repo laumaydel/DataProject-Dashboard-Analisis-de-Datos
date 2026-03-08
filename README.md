@@ -37,3 +37,11 @@ Indica el nivel de riesgo cardiovascular estimado para cada individuo.
 - Colesterol_Total: Nivel total de colesterol en sangre, asociado al riesgo de enfermedades cardiovasculares.
 - PAS / PAD: Presión arterial sistólica (PAS) y diastólica (PAD), indicadores clave en la salud cardiovascular.
 
+## CONCLUSIONES
+
+● Existe una alta presencia de sobrepeso y obesidad en la población analizada, lo que representa uno de los principales factores de riesgo asociados a enfermedades cardiovasculares.
+● Una proporción significativa de los individuos presenta riesgo cardiovascular elevado, lo que pone de manifiesto la relevancia de estudiar este tipo de indicadores en la población.
+● Factores relacionados con el estilo de vida, como el nivel de actividad física, el consumo de alcohol o el nivel de estrés, muestran una influencia en la salud cardiovascular.
+● La presencia de enfermedades asociadas como la diabetes también representa un factor importante dentro del estudio, debido a su relación directa con el desarrollo de patologías cardiovasculares.
+
+
